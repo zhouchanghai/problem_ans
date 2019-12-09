@@ -1,4 +1,4 @@
-#TheaterTickets
+#TheaterTickets (Hard)
 
 def solution(A):
     n = len(A)
