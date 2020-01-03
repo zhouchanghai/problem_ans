@@ -9,6 +9,10 @@
 * Aluminium 2014 - [MaxSliceSwap](https://app.codility.com/programmers/task/max_slice_swap/) (Hard, Ambitious)
   * 2456 started, 117 silver, 58 golden
   * [Java O(N)](http://zh-wang.github.io/blog/2014/06/20/codility-aluminium-2014-p2/)
+* Neon 2014 - [BoatAlignment](https://app.codility.com/programmers/task/boat_alignment/)  (Hard, Ambitious)
+  * 4837 started, 78 silver, 114 golden
+  * O(N) [Golden Award to Jared Bass](https://app.codility.com/cert/view/cert32N5BC-KANU8TTSCPVQJQ28/details/)
+  * O(N) [Cao Peng's solution](https://blog.csdn.net/caopengcs/article/details/36880953)
 * Delta 2011 - [MinAbsSum](https://app.codility.com/programmers/task/min_abs_sum/) (Hard, Ambitious)
   * 1616 started, 92 silver, 71 golden
   * [Official solution](http://codility.com/media/train/solution-min-abs-sum.pdf) O(N * M * M)
